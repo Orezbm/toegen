@@ -47,7 +47,6 @@ pip install toegen
 
 Once installed, you can use ToeGen to generate eukaryotic and prokaryotic toehold switches with homology ranking.
 
-- 
 - Use Case: Generating a Eukaryotic Toehold Switch
 ```bash
 from toegen import SwitchGenerator
